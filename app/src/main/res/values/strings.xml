@@ -1,0 +1,48 @@
+<resources>
+     <string name="app_name">Mane Kelsa</string>
+    <string name="welcome">Welcome to Mane Kelsa</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="electrician">Electrician</string>
+    <string name="plumber">Plumber</string>
+    <string name="carpenter">Carpenter</string>
+    <string name="mason">Mason</string>
+    <string name="painter">Painter</string>
+    <string name="labour">Labour</string>
+    <string name="available_workers">Available Workers</string>
+    <string name="rating">Rating</string>
+    <string name="experience">Experience</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="call_now">Call Now</string>
+    <string name="uploading">Uploading...</string>
+    <string name="upload_success">Uploaded Successfully!</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="i_am_available">I am available today</string>
+    <string name="not_available">I am not available today</string>
+    <string name="confirm">Confirm</string>
+    <string name="work_done">Work Done</string>
+    <string name="nearest_area">Nearest Area</string>
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">2166068723711987</string>
+    <string name="fb_login_protocol_scheme">fb2166068723711987</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY</string>
+    
+    <array name="menuOptions">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>About Us</item>
+    </array>
+
+    <string name="tag_menu">menu</string>
+    <string name="tag_content">content</string>
+</resources>
+

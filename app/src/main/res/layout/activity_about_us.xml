@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:fillViewport="true"
+      android:background="@color/white"
+      tools:context=".AboutUs">
+
+      <LinearLayout
+	  android:layout_width="match_parent"
+	  android:layout_height="wrap_content"
+	  android:orientation="vertical"
+	  android:padding="24dp"
+	  android:gravity="center_horizontal">
+
+	  <ImageView
+	      android:layout_width="150dp"
+	      android:layout_height="150dp"
+	      android:layout_marginTop="32dp"
+	      android:src="@mipmap/ic_launcher_round" />
+
+	  <TextView
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_marginTop="16dp"
+	      android:text="Mane Kelsa"
+	      android:textColor="@color/colorPrimary"
+	      android:textSize="28sp"
+	      android:textStyle="bold" />
+
+	  <TextView
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Hyperlocal Worker Service"
+	      android:textColor="@color/black"
+	      android:textSize="16sp" />
+
+	  <View
+	      android:layout_width="match_parent"
+	      android:layout_height="1dp"
+	      android:layout_marginTop="32dp"
+	      android:layout_marginBottom="32dp"
+	      android:background="#EEEEEE" />
+
+	  <TextView
+	      android:layout_width="match_parent"
+	      android:layout_height="wrap_content"
+	      android:text="About the Platform"
+	      android:textColor="@color/black"
+	      android:textSize="20sp"
+	      android:textStyle="bold"
+	      android:layout_marginBottom="16dp"/>
+
+	  <TextView
+	      android:layout_width="match_parent"
+	      android:layout_height="wrap_content"
+	      android:text="Mane Kelsa is a hyperlocal services platform designed to bridge the gap between skilled local workers and customers. Whether you need an electrician, plumber, or painter, our mission is to provide easy access to trusted professionals in your immediate neighborhood.\n\nWe empower local workers by providing them with a digital platform to showcase their skills and availability, while offering customers a convenient way to find help quickly."
+	      android:textColor="#555555"
+	      android:textSize="16sp"
+	      android:lineSpacingExtra="4dp" />
+
+	  <TextView
+	      android:layout_width="match_parent"
+	      android:layout_height="wrap_content"
+	      android:layout_marginTop="32dp"
+	      android:text="Version 1.0.0"
+	      android:gravity="center"
+	      android:textColor="#999999"
+	      android:textSize="14sp" />
+
+      </LinearLayout>
+
+</ScrollView>

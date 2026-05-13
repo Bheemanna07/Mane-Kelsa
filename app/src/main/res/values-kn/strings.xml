@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ಮನೆ-ಕೆಲಸ</string>
+    <string name="welcome">ಮನೆ-ಕೆಲಸಕ್ಕೆ ಸುಸ್ವಾಗತ</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="signup">ಸೈನ್ ಅಪ್</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರಾ?</string>
+    <string name="home">ಮನೆ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="about_us">ನಮ್ಮ ಬಗ್ಗೆ</string>
+    <string name="electrician">ಎಲೆಕ್ಟ್ರಿಷಿಯನ್</string>
+    <string name="plumber">ಪ್ಲಂಬರ್</string>
+    <string name="carpenter">ಕಾರ್ಪೆಂಟರ್</string>
+    <string name="mason">ಮೇಸನ್</string>
+    <string name="painter">ಪೇಂಟರ್</string>
+    <string name="labour">ಕಾರ್ಮಿಕ</string>
+    <string name="available_workers">ಲಭ್ಯವಿರುವ ಕೆಲಸಗಾರರು</string>
+    <string name="rating">ರೇಟಿಂಗ್</string>
+    <string name="experience">ಅನುಭವ</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="call_now">ಈಗ ಕರೆ ಮಾಡಿ</string>
+    <string name="uploading">ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="upload_success">ಯಶಸ್ವಿಯಾಗಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ!</string>
+    <string name="please_wait">ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ</string>
+    <string name="i_am_available">ನಾನು ಇಂದು ಲಭ್ಯವಿದ್ದೇನೆ</string>
+    <string name="not_available">ನಾನು ಇಂದು ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="confirm">ಖಚಿತಪಡಿಸಿ</string>
+    <string name="work_done">ಕೆಲಸ ಮುಗಿದಿದೆ</string>
+    <string name="nearest_area">ಹತ್ತಿರದ ಪ್ರದೇಶ</string>
+    <string name="noconnection">ದಯವಿಟ್ಟು ವೈಫೈ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಪಡಿಸಿ ಅಥವಾ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    
+    <array name="menuOptions">
+        <item>ಮನೆ</item>
+        <item>ಪ್ರೊಫೈಲ್</item>
+        <item>ನಮ್ಮ ಬಗ್ಗೆ</item>
+    </array>
+</resources>

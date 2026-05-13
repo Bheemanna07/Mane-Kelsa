@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700611818829",
+    "project_id": "self-employment-app",
+    "firebase_url": "https://self-employment-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "self-employment-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700611818829:android:18f1e598bf83cc5e3b7304",
+        "android_client_info": {
+          "package_name": "com.kvsn.builds.cap1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6agdNdYdDhCfV_IA7CP7cYIxUPIg4Tsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
