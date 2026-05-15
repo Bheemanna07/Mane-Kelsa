@@ -46,7 +46,20 @@
 4. **Build & Run**: Sync with Gradle and run on your preferred emulator or physical device.
 
 ---
+# 🛠️ Mane Kelsa (Shram)
 
+## App Screenshots
+
+<p align="center">
+  <img src="loginpage.jpeg" width="250"/>
+  <img src="Signuppage.jpeg" width="250"/>
+  <img src="Categoriespage.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="LocationPage.jpeg" width="250"/>
+  <img src="WokerPage.jpeg" width="250"/>
+</p>
 ## 🤝 Contact & Support
 
 **Maintenance**: [Bheemanna](https://github.com/Bheemanna07)
