@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="LocationPage.jpeg" width="250"/>
-  
+  <img src="WorkerPage.jpeg" width="250"/>
    <img src="WorkerPage.jpeg" width="250"/>
 </p>
 ## 🤝 Contact & Support
