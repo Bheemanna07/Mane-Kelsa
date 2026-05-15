@@ -1,4 +1,4 @@
-# 🛠️ Mane Kelsa (Shram) - Hyperlocal Worker Directory
+# 🛠️ Mane Kelsa  - Hyperlocal Worker Directory
 
 **Mane Kelsa** (translated as "Home Work") is a premium Android application designed to bridge the gap between daily wage workers (Seekers) and individuals looking for skilled services (Recruiters). Built with a modern Material Design interface, the app provides a seamless platform for discovering, contacting, and reviewing local service providers.
 
@@ -53,12 +53,14 @@
 <p align="center">
   <img src="loginpage.jpeg" width="250"/>
   <img src="Signuppage.jpeg" width="250"/>
+   <img src="WokerPage.jpeg" width="250"/>
   <img src="Categoriespage.jpeg" width="250"/>
 </p>
 
 <p align="center">
   <img src="LocationPage.jpeg" width="250"/>
-  <img src="WokerPage.jpeg" width="250"/>
+  
+   <img src="WorkerPage.jpeg" width="250"/>
 </p>
 ## 🤝 Contact & Support
 
